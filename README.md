@@ -21,7 +21,7 @@
 - O código será executado quando o alarme for definido.
 - O código tocará um toque para notificar o usuário de que seu alarme foi definido.
 
-#[EN]
+# [EN]
 
 - The code starts by creating a variable called currentTime.
 - This is the time of day for which we want to set our alarm.
